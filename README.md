@@ -83,4 +83,7 @@ repeat these steps to upgrade to future releases.
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-This repository forked from atom/atom.
+
+## Fork
+
+This repository forked from atom/atom for Git practice and experimentation.
